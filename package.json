@@ -1,0 +1,14 @@
+{
+  "name": "ecobites-backend",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.10.7",
+    "mysql": "^2.13.0"
+  },
+ "scripts": {
+     "start": "node app.js"
+ }, 
+ "license": "MIT",
+  "repository": {}
+}
