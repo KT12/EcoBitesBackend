@@ -2,7 +2,7 @@
   "name": "ecobites-backend",
   "dependencies": {
     "express": "^4.15.3",
-    "mongodb": "^2.2.29",
+    "mongodb": "^>3.1.13",
     "mongoose": "^>5.13.20",
     "mysql": "^2.13.0"
   },
